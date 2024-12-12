@@ -1,16 +1,26 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+#  Restaurant Website 
+ 🚀 Excited to Share My Latest Project: A Responsive Restaurant Website Built with React! 🍽️
 
-## Getting Started
+ Over the past few days, I've been working on a dynamic and responsive restaurant website using React. This project allowed me to dive deep into React's powerful capabilities, particularly with state management and reusable components. Here's a quick overview of what I accomplished and how it works:
 
-First, run the development server:
+Key Features:
+Dynamic Menu Filtering: The website features a dynamic menu that allows users to filter items based on categories like Breakfast, Lunch, and Dinner. This is achieved using React's useState hook and custom filtering functions.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
+Reusable Components:
+
+Navbar: Contains buttons for each category and updates the displayed items based on user interaction.
+MenuCard: Displays each menu item with details such as name, category, description, and image.
+Responsive Design: Ensured the website is fully responsive and looks great on all devices by leveraging CSS flexbox and media queries.
+
+Technologies Used:
+React: For building the user interface and managing state.
+CSS: For styling the components and ensuring responsiveness.
+JavaScript: For dynamic functionality and interactivity.
+
+This project was a fantastic learning experience and I'm thrilled to share it with the community. Feel free to check out the code, provide feedback, or reach out if you have any questions!
+
+
+Thank you for reading! 🚀✨
 bun dev
 ```
 
